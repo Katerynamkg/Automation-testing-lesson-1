@@ -1,7 +1,7 @@
 let a = 33;
 let b = 25;
-let c = 12;
-let abc = a + b + c;
+let c = 24;
+let abc = c + a + b;
 let ccc = 35;
 let bbb = 22;
 let aaa = "test";
