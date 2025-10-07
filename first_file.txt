@@ -5,3 +5,4 @@ let abc = a + b + c;
 let ccc = 35;
 let bbb = 22;
 let aaa = "test";
+let l = 20;
