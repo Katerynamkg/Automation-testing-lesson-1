@@ -1,10 +1,12 @@
 let a = 33;
 let b = 25;
 let c = 12;
-let abc = a + b + c;
+let abc = a*b;
 let ccc = 35;
 let bbb = 22;
 let aaa = "test";
 let l = 20;
 let k = 256
 let lt = 35
+let p = 50;
+let newTitle = "New Chapter"
