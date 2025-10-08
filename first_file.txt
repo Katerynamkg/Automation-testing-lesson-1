@@ -7,3 +7,4 @@ let bbb = 22;
 let aaa = "test";
 let l = 20;
 let k = 256
+let lt = 35
